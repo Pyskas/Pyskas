@@ -4,7 +4,8 @@
 ## 🌟 О себе
 - 💻 Специализация: Web-разработка 
 - 🌍 Локация: Уфа, Россия
-- 📫 Контакты: <p align="left"> 
+- 📫 Контакты: 
+<p align="left"> 
   <a href="https://t.me/pyskas" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg" /> 
