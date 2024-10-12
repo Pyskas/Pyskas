@@ -5,15 +5,7 @@
 - 💻 Специализация: Web-разработка 
 - 🌍 Локация: Уфа, Россия
 - 📫 Контакты: 
-<p align="left"> 
-  <a href="https://t.me/pyskas" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-</p>
+![Telegram](https://img.shields.io/badge-@pyskas-/Telegram-0E76A8?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## ⚙️ Навыки
 - Backend:
