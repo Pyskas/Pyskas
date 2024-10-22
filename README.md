@@ -53,5 +53,5 @@
 <a href="http://www.github.com/Pyskas"><img src="https://github-readme-stats.vercel.app/api?username=Pyskas&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Pyskas's GitHub stats" /></a>
 
 <a href="https://github.com/Pyskas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyskas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Наиболее используемые языки" /></a>
-
+<a href="http://www.github.com/Pyskas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pyskas&stroke=ffffff&background=000000&ring=ffffff&fire=
 
