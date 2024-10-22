@@ -6,7 +6,7 @@
 - 💻 Специализация: Web-разработка 
 - 🌍 Локация: Уфа, Россия
 - 📫 Контакты:![Telegram](https://img.shields.io/badge/@pyskas-0E76A8?style=for-the-badge&logo=telegram&logoColor=white&label)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=UKSIVT+Student)](https://git.io/typing-svg)
+-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=UKSIVT+Student)](https://git.io/typing-svg)
 
 ## ⚙️ Навыки
 - Backend:
