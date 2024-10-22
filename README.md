@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web developer, from Russia 🇷🇺</h3>
 
-![Snake animation](file://C:/Users/ivanp/Downloads/github-user-contribution.svg)
-
 ## 🌟 О себе
 - 💻 Специализация: Web-разработка 
 - 🌍 Локация: Уфа, Россия
@@ -28,6 +26,7 @@
 </p>
 
 ## Статистика GitHub:
+
 ![](https://komarev.com/ghpvc/?username=your-github-Pyskas)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pyskas)](https://github.com/ryo-ma/github-profile-trophy)
