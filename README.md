@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web developer from Russia 🇷🇺</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Developer+from+Russia+Student)](https://git.io/typing-svg)
 
-## 🌟 О себе [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=UKSIVT+Student)](https://git.io/typing-svg)
+## 🌟 О себе
 - 💻 Специализация: Web-разработка 
 - 🌍 Локация: Уфа, Россия
 - 📫 Контакты:![Telegram](https://img.shields.io/badge/@pyskas-0E76A8?style=for-the-badge&logo=telegram&logoColor=white&label)
