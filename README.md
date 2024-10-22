@@ -2,11 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web developer from Russia 🇷🇺</h3>
 
-## 🌟 О себе
+## 🌟 О себе [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=UKSIVT+Student)](https://git.io/typing-svg)
 - 💻 Специализация: Web-разработка 
 - 🌍 Локация: Уфа, Россия
 - 📫 Контакты:![Telegram](https://img.shields.io/badge/@pyskas-0E76A8?style=for-the-badge&logo=telegram&logoColor=white&label)
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=UKSIVT+Student)](https://git.io/typing-svg)
 
 ## ⚙️ Навыки
 - Backend:
