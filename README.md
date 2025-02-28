@@ -4,7 +4,6 @@
 
 ## 🌟 О себе
 - 💻 Специализация: Web-разработка 
-- 🌍 Локация: Уфа, Россия
 - 📫 Контакты:![Telegram](https://img.shields.io/badge/@pyskas-0E76A8?style=for-the-badge&logo=telegram&logoColor=white&label)
 
 ## ⚙️ Навыки
